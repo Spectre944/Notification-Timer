@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close_icon.svg</file>
+        <file>images/off-button.png</file>
+        <file>images/on-button.png</file>
+        <file>images/open_icon.svg</file>
+        <file>images/resize_icon.svg</file>
+        <file>images/save_icon.svg</file>
+        <file>images/settings_icon.svg</file>
+        <file>images/stopwatch-timer.png</file>
+        <file>images/exercise.png</file>
+        <file>images/focus.png</file>
+        <file>images/sand-clock.png</file>
+        <file>sound/Alarm07.wav</file>
+        <file>sound/Windows Notify System Generic.wav</file>
+    </qresource>
+</RCC>
